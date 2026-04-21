@@ -7,7 +7,7 @@
 - проєкт для роботи з тестами на мові Python.
 -  відображення документації за допомогою GitHub Pages.
 
-Репозиторій [Studying](https://github.com/KachanPolina/Studying)) містить:
+Репозиторій [Studying](https://github.com/KachanPolina/Studying) містить:
 - основи роботи з Git (корень проєкту).
 - встанолвення залежностей проєкту для Python та Node.js.
 - розгортання проєкту на С++.
